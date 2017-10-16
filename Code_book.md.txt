@@ -1,0 +1,99 @@
+# Code book for run_analysis.R
+
+This code book is for the data fields in tidy_data.txt
+
+## Identifiers 
+
+- subject: Test subject ID
+- activity: Activity performed when measurement was recorded
+
+## Measurements
+
+- TimeBodyAccelerometerMeanX 
+- TimeBodyAccelerometerMeanY 
+- TimeBodyAccelerometerMeanZ 
+- TimeBodyAccelerometerStandard_deviationX 
+- TimeBodyAccelerometerStandard_deviationY 
+- TimeBodyAccelerometerStandard_deviationZ 
+- TimeGravityAccelerometerMeanX 
+- TimeGravityAccelerometerMeanY 
+- TimeGravityAccelerometerMeanZ 
+- TimeGravityAccelerometerStandard_deviationX 
+- TimeGravityAccelerometerStandard_deviationY 
+- TimeGravityAccelerometerStandard_deviationZ 
+- TimeBodyAccelerometerJerkMeanX 
+- TimeBodyAccelerometerJerkMeanY 
+- TimeBodyAccelerometerJerkMeanZ 
+- TimeBodyAccelerometerJerkStandard_deviationX 
+- TimeBodyAccelerometerJerkStandard_deviationY 
+- TimeBodyAccelerometerJerkStandard_deviationZ 
+- TimeBodyGyroscopeMeanX 
+- TimeBodyGyroscopeMeanY 
+- TimeBodyGyroscopeMeanZ 
+- TimeBodyGyroscopeStandard_deviationX 
+- TimeBodyGyroscopeStandard_deviationY 
+- TimeBodyGyroscopeStandard_deviationZ 
+- TimeBodyGyroscopeJerkMeanX 
+- TimeBodyGyroscopeJerkMeanY 
+- TimeBodyGyroscopeJerkMeanZ 
+- TimeBodyGyroscopeJerkStandard_deviationX 
+- TimeBodyGyroscopeJerkStandard_deviationY 
+- TimeBodyGyroscopeJerkStandard_deviationZ 
+- TimeBodyAccelerometerMagnitudeMean 
+- TimeBodyAccelerometerMagnitudeStandard_deviation 
+- TimeGravityAccelerometerMagnitudeMean 
+- TimeGravityAccelerometerMagnitudeStandard_deviation 
+- TimeBodyAccelerometerJerkMagnitudeMean 
+- TimeBodyAccelerometerJerkMagnitudeStandard_deviation 
+- TimeBodyGyroscopeMagnitudeMean 
+- TimeBodyGyroscopeMagnitudeStandard_deviation 
+- TimeBodyGyroscopeJerkMagnitudeMean 
+- TimeBodyGyroscopeJerkMagnitudeStandard_deviation 
+- Frequencyuency_domainBodyAccelerometerMeanX 
+- Frequencyuency_domainBodyAccelerometerMeanY 
+- Frequencyuency_domainBodyAccelerometerMeanZ 
+- Frequencyuency_domainBodyAccelerometerStandard_deviationX 
+- Frequencyuency_domainBodyAccelerometerStandard_deviationY 
+- Frequencyuency_domainBodyAccelerometerStandard_deviationZ 
+- Frequencyuency_domainBodyAccelerometerMeanFrequencyX 
+- Frequencyuency_domainBodyAccelerometerMeanFrequencyY 
+- Frequencyuency_domainBodyAccelerometerMeanFrequencyZ 
+- Frequencyuency_domainBodyAccelerometerJerkMeanX 
+- Frequencyuency_domainBodyAccelerometerJerkMeanY 
+- Frequencyuency_domainBodyAccelerometerJerkMeanZ 
+- Frequencyuency_domainBodyAccelerometerJerkStandard_deviationX 
+- Frequencyuency_domainBodyAccelerometerJerkStandard_deviationY 
+- Frequencyuency_domainBodyAccelerometerJerkStandard_deviationZ 
+- Frequencyuency_domainBodyAccelerometerJerkMeanFrequencyX 
+- Frequencyuency_domainBodyAccelerometerJerkMeanFrequencyY 
+- Frequencyuency_domainBodyAccelerometerJerkMeanFrequencyZ 
+- Frequencyuency_domainBodyGyroscopeMeanX 
+- Frequencyuency_domainBodyGyroscopeMeanY 
+- Frequencyuency_domainBodyGyroscopeMeanZ 
+- Frequencyuency_domainBodyGyroscopeStandard_deviationX 
+- Frequencyuency_domainBodyGyroscopeStandard_deviationY 
+- Frequencyuency_domainBodyGyroscopeStandard_deviationZ 
+- Frequencyuency_domainBodyGyroscopeMeanFrequencyX 
+- Frequencyuency_domainBodyGyroscopeMeanFrequencyY 
+- Frequencyuency_domainBodyGyroscopeMeanFrequencyZ 
+- Frequencyuency_domainBodyAccelerometerMagnitudeMean 
+- Frequencyuency_domainBodyAccelerometerMagnitudeStandard_deviation 
+- Frequencyuency_domainBodyAccelerometerMagnitudeMeanFrequency 
+- Frequencyuency_domainBodyAccelerometerJerkMagnitudeMean 
+- Frequencyuency_domainBodyAccelerometerJerkMagnitudeStandard_deviation 
+- Frequencyuency_domainBodyAccelerometerJerkMagnitudeMeanFrequency 
+- Frequencyuency_domainBodyGyroscopeMagnitudeMean 
+- Frequencyuency_domainBodyGyroscopeMagnitudeStandard_deviation 
+- Frequencyuency_domainBodyGyroscopeMagnitudeMeanFrequency 
+- Frequencyuency_domainBodyGyroscopeJerkMagnitudeMean 
+- Frequencyuency_domainBodyGyroscopeJerkMagnitudeStandard_deviation 
+- Frequencyuency_domainBodyGyroscopeJerkMagnitudeMeanFrequency
+
+## Activity labels
+
+- WALKING (1)
+- WALKING_UPSTAIRS (2) 
+- WALKING_DOWNSTAIRS (3)
+- SITTING (4)
+- STANDING (5)
+- LAYING (6)
